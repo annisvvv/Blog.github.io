@@ -1,12 +1,12 @@
 ---
 layout: page
-title: ""
+title: "Welcome to my Blog"
 ---
 
-#### Welcome to my blog
+This is my personal blog. You can find more information about me in the [About](/about/) section.
 
-This is my personal blog i wish i could help someone of you get inspired, wish you  good lecture. You can find more information in the [About](/about/) section.
-
+I wish you  good lecture.
+ 
 #### Posts:
 
 <ul>
