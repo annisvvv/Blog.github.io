@@ -1,4 +1,6 @@
-theme: jekyll-theme-cayman
+theme: minima
 title: My Blog
 description: Thoughts, tutorials, and ideas
 future: true
+plugins:
+  - jekyll-remote-theme
