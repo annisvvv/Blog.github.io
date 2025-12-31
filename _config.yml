@@ -1,8 +1,5 @@
 theme: minima
-minima:
-  skin: dark
 title: Nasri Anis Blog
-logo: "/assets/profile.jpg"
 description: "Email: nasrianis213@gmail.com"
 future: true
 
