@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Welcome to my Blog"
+title: "My Blog"
 ---
 
 This is my personal blog. You can find more information about me in the [About](/about/) section.
