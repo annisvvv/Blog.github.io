@@ -3,7 +3,7 @@ layout: page
 title: "My Blog"
 ---
 
-This is my personal blog. You can find more information about me in the [About](/about/) section.
+This is my personal blog. You can find more information about me in the [[about]] section.
 
 I wish to you a good lecture.
  
