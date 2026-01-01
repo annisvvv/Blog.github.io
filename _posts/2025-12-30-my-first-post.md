@@ -5,6 +5,6 @@ date: 2025-12-30
 categories: blog
 ---
 
-This is the birst blog I create.
+This is the first blog I create.
 
 I will begin to work on other Blogs with a diversity of topic.
